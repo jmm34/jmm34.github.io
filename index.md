@@ -4,7 +4,7 @@ title: About
 weight : 1
 ---
 
-<img style="float: right; margin: 0px 0px 0px 30px;" width="150" src="{{site.baseurl}}/docs/jmm.jpg"/>
+<img style="float: right; margin: 0px 0px 0px 30px;" width="150" src="{{site.baseurl}}/jmm.jpg"/>
 
 I am Professor at the [University of Montpellier](https://www.umontpellier.fr/en/), member of [Institut Montpelliérain Alexander Grothendieck](https://imag.edu.umontpellier.fr) and of the [Faculty of Sciences](https://sciences.edu.umontpellier.fr/welcome-to-the-faculty-of-sciences/) , working in Statistics applied to Evolutionary Biology.
   
