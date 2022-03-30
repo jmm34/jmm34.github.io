@@ -1,1 +1,12 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: Jean-Michel Marin
+email: jean-michel.marin[at]umontpellier.fr
+description: > # this means to ignore newlines until "baseurl:"
+  Professor of Statistics
+baseurl: '' # /jmm34.github.io # the subpath of your site, e.g. /blog/
+# url: "http://yourdomain.com" # the base hostname & protocol for your site
+github_username:  jmm34
+
+# Build settings
+markdown: kramdown # redcarpet
+highlighter: rouge # pygments
